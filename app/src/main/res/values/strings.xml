@@ -1,0 +1,8 @@
+<resources>
+    <string name="spaghetti_name">Spaghetti Bolognese</string>
+    <string name="spaghetti_desc">A classic Italian dish with rich meat sauce.</string>
+    <string name="curry_name">Curry</string>
+    <string name="curry_desc">A spicy and savory curry with tender chicken pieces.</string>
+    <string name="stroganoff_name">Stroganoff</string>
+    <string name="stroganoff_desc">A creamy dish with sautéed pieces of beef and mushrooms. </string>
+</resources>
