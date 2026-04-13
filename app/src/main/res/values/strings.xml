@@ -1,4 +1,5 @@
 <resources>
+    <string name="app_name">RecipeExplore</string>
     <string name="spaghetti_name">Spaghetti Bolognese</string>
     <string name="spaghetti_desc">A classic Italian dish with rich meat sauce.</string>
     <string name="curry_name">Curry</string>
